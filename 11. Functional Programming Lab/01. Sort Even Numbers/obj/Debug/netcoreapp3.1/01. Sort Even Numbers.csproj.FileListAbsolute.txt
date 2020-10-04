@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.exe
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.deps.json
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.runtimeconfig.json
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.dll
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\bin\Debug\netcoreapp3.1\01. Sort Even Numbers.pdb
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.dll
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.pdb
+C:\Users\User\Desktop\Coding\IDE Advanced\11. Functional Programming Lab\11. Functional Programming Lab\obj\Debug\netcoreapp3.1\01. Sort Even Numbers.genruntimeconfig.cache
